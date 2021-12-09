@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe1c402d-5c9f-4ec9-9545-1ac7dc3ac7b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dwUEmBm7CZzb8feMbAiDSgJpde" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testtools" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.reverse">
+    <configuration name="isValid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/isValid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lengthOfLongestSubstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lengthOfLongestSubstring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.reverse" />
+        <item itemvalue="Python.lengthOfLongestSubstring" />
+        <item itemvalue="Python.isValid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe1c402d-5c9f-4ec9-9545-1ac7dc3ac7b8" name="Default Changelist" comment="" />
+      <created>1593335539158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593335539158</updated>
+      <workItem from="1593335540399" duration="2137000" />
+      <workItem from="1593340544923" duration="5770000" />
+      <workItem from="1593393314400" duration="6345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593353957313">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="304" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027/1.-1440.2560.1400@0.0.1707.1027" timestamp="1593353957313" />
+    <state x="304" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1593336597173" />
+    <state x="580" y="209" key="FileChooserDialogImpl" timestamp="1593393328807">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="580" y="209" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1593393328807" />
+    <state width="1651" height="326" key="GridCell.Tab.0.bottom" timestamp="1593408974894">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1651" height="262" key="GridCell.Tab.0.bottom/0.0.1707.1027/1.-1440.2560.1400@0.0.1707.1027" timestamp="1593357914661" />
+    <state width="1651" height="326" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1593408974894" />
+    <state width="1651" height="326" key="GridCell.Tab.0.center" timestamp="1593408974894">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1651" height="262" key="GridCell.Tab.0.center/0.0.1707.1027/1.-1440.2560.1400@0.0.1707.1027" timestamp="1593357914661" />
+    <state width="1651" height="326" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1593408974894" />
+    <state width="1651" height="326" key="GridCell.Tab.0.left" timestamp="1593408974894">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1651" height="262" key="GridCell.Tab.0.left/0.0.1707.1027/1.-1440.2560.1400@0.0.1707.1027" timestamp="1593357914661" />
+    <state width="1651" height="326" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1593408974894" />
+    <state width="1651" height="326" key="GridCell.Tab.0.right" timestamp="1593408974894">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1651" height="262" key="GridCell.Tab.0.right/0.0.1707.1027/1.-1440.2560.1400@0.0.1707.1027" timestamp="1593357914661" />
+    <state width="1651" height="326" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1593408974894" />
+    <state width="1651" height="326" key="GridCell.Tab.1.bottom" timestamp="1593408974894">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1651" height="326" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1593408974894" />
+    <state width="1651" height="326" key="GridCell.Tab.1.center" timestamp="1593408974894">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1651" height="326" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1593408974894" />
+    <state width="1651" height="326" key="GridCell.Tab.1.left" timestamp="1593408974894">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1651" height="326" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1593408974894" />
+    <state width="1651" height="326" key="GridCell.Tab.1.right" timestamp="1593408974894">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1651" height="326" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1593408974894" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$lengthOfLongestSubstring.coverage" NAME="lengthOfLongestSubstring Coverage Results" MODIFIED="1593401493735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$reverse.coverage" NAME="reverse Coverage Results" MODIFIED="1593403009057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$python2_7.coverage" NAME="python2.7 Coverage Results" MODIFIED="1593353914634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/leetcode$isValid.coverage" NAME="isValid Coverage Results" MODIFIED="1593355893109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
