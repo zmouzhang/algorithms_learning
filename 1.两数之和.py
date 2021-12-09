@@ -2,7 +2,7 @@
 # @lc app=leetcode.cn id=1 lang=python3
 #
 # [1] 两数之和
-#
+# 思路：固定一个值，然后将差进行遍历。
 
 # @lc code=start
 class Solution:
