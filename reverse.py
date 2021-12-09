@@ -14,6 +14,7 @@ class Solution(object):
 
 		if (-2 ** 31 <= x <= 2 ** 31 - 1) and (x != 0):
 			tmp = ''
+			# 整型转字符串
 			s = str(x)
 			length = len(s)
 			if x < 0:
@@ -31,4 +32,5 @@ class Solution(object):
 
 a = Solution()
 b = 123456789
+print(type(b))
 print(a.reverse(b))
