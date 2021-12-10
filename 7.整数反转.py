@@ -21,7 +21,6 @@ class Solution:
             return target if -2 ** 31 <= target <= 2 ** 31 - 1 else 0
         else:
             return 0
-                   
             
 # @lc code=end
 
