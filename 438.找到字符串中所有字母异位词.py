@@ -7,14 +7,16 @@
 # @lc code=start
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        # 定义需要维护的数据
+        # 定义滑动窗口需要维护的数据
         res, hashmap = [], {}
+        
         hashmap_p = {}
         for char in p:
             hashmap_p[char] = hashmap_p.get(char, 0) + 1
         start = 0
         for end in range(len(s)):
             hashmap[s[end]] = hashmap.get(s[end], 0) + 1
+            # 判断滑动窗口的
             if hashmap == hashmap_p:
                 res.append(start)
             if end >= len(p) - 1:
